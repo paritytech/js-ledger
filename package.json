@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "u2f-api": "0.0.9",
-    "u2f-api-polyfill": "0.4.3",
+    "u2f-api-polyfill": "0.4.3"
   }
 }
