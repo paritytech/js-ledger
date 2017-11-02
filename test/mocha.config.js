@@ -14,6 +14,6 @@
 // You should have received a copy of the GNU General Public License
 // along with Parity.  If not, see <http://www.gnu.org/licenses/>.
 
-const ledger = require('./lib/ledger');
+const chai = require('chai');
 
-module.exports = ledger;
+global.expect = chai.expect;
